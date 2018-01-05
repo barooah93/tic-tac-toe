@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.playGame(button:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "findWinner()">
+            </PersistentString>
+            <PersistentString
+               value = "activePlayer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.findWinner():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "player1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
